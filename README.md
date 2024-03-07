@@ -1,4 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
+
 
 <h1 align="center">Hi 👋, I'm Ian Mungai</h1>
 <h3 align="center">An ambitious Full Stack Web Developer driven by the thirst to learn more, build more and evolve.</h3>
